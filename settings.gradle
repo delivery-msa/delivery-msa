@@ -1,0 +1,6 @@
+include ':microservices:account:account-service'
+include ':microservices:kitchen:kitchen-service'
+include ':microservices:member:member-service'
+include ':microservices:order:order-service'
+include ':microservices:restaurant:restaurant-service'
+include ':microservices:rider:rider-service'
